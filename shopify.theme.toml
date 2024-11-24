@@ -1,0 +1,5 @@
+[environments.env1]
+theme = "Radiant"
+store = "vcc860-be"
+password  = "shptka_afd2b8821d8451d8e4ed17cdeb440426"
+ignore = "sections/header.liquid"
